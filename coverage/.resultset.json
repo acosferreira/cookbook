@@ -1,0 +1,73 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/acosferreira/Documents/cookbook/app/controllers/recipes_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/acosferreira/Documents/cookbook/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/acosferreira/Documents/cookbook/app/models/ability.rb": [
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/acosferreira/Documents/cookbook/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/acosferreira/Documents/cookbook/app/models/ingredient.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/acosferreira/Documents/cookbook/app/models/kind.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/acosferreira/Documents/cookbook/app/models/recipe.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/acosferreira/Documents/cookbook/app/models/user.rb": [
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1534057305
+  }
+}
