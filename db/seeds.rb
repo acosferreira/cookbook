@@ -1,7 +1,10 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+User.create(email: 'admin@cookbook.com', password: '!@#qwe', admin: true)
+Kind.create(name: 'Desert')
+Kind.create(name: 'Lunch')
+Kind.create(name: 'Low Carb')
+Ingredient.create(name: 'milk', measurement: '200 ml')
+Ingredient.create(name: 'egg', measurement: '3 un')
+Ingredient.create(name: 'flour', measurement: '300 gr')
+Ingredient.create(name: 'suggar', measurement: '10 gr')
+Ingredient.create(name: 'oil', measurement: '10 ml')
+Ingredient.create(name: 'yeast', measurement: '50 mg')
